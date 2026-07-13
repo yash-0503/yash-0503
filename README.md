@@ -19,6 +19,13 @@ I like building things at the intersection of software engineering and AI — fr
 
 ---
 
+## 🚀 Featured Projects
+
+- **[📋 Collaborative-TODO](https://github.com/yash-0503/collaborative-todo)** — Real-time collaborative task management platform built with Next.js 15.
+- **[🎥 Repurpose.ai](https://github.com/yash-0503/repurpose.ai)** — Turn YouTube videos into blogs, LinkedIn posts, and Twitter/X threads with AI.
+- **[🔒 VaultPrint](https://github.com/yash-0503/VaultPrint)** — Zero-storage, peer-to-peer confidential printing for public print shops.
+
+
 ### Tech Stack
 
 <div align="center">
