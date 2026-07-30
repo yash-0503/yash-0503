@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm **Yash**, currently working at **TCS**.  
+I'm **Yash**. 
 I like building things at the intersection of software engineering and AI — from RAG pipelines to graph-based retrieval systems.
 
 - 🌱 Currently exploring: Agentic AI, Graph RAG
