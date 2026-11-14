@@ -11,7 +11,7 @@
 ### About Me
 
 I'm **Yash**. 
-I like building things at the intersection of software engineering and AI — from RAG pipelines to graph-based retrieval systems.
+I like building things at the intersection of software engineering and AI.
 
 - 🌱 Currently exploring: Agentic AI, Graph RAG
 - 📫 Reach me at: `yashworks77@gmail.com`
@@ -21,7 +21,7 @@ I like building things at the intersection of software engineering and AI — fr
 
 ## 🚀 Featured Projects
 
-- **[📋 Collaborative-TODO](https://github.com/yash-0503/collaborative-todo)** — Real-time collaborative task management platform built with Next.js 15.
+
 - **[🎥 Repurpose.ai](https://github.com/yash-0503/repurpose.ai)** — Turn YouTube videos into blogs, LinkedIn posts, and Twitter/X threads with AI.
 - **[🔒 VaultPrint](https://github.com/yash-0503/VaultPrint)** — Zero-storage, peer-to-peer confidential printing for public print shops.
 
@@ -31,10 +31,6 @@ I like building things at the intersection of software engineering and AI — fr
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -52,7 +48,6 @@ I like building things at the intersection of software engineering and AI — fr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
